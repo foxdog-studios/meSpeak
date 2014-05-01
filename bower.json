@@ -1,0 +1,25 @@
+{
+  "name": "mespeak",
+  "main": "mespeak.js",
+  "version": "1.9.6",
+  "authors": [
+    "Lloyd Henning <lloyd.w.henning@gmail.com>"
+  ],
+  "description": "Text-To-Speech on the Web",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "TTS",
+    "text-to-speech"
+  ],
+  "license": "GPL3",
+  "homepage": "http://www.masswerk.at/mespeak/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
