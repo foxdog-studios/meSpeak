@@ -1,6 +1,6 @@
 Package.describe({
   name: 'fds:mespeak',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Text-To-Speech on the Web - works with web audio ',
   git: '',
   documentation: 'README.md'
