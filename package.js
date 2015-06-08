@@ -14,8 +14,3 @@ Package.onUse(function(api) {
   api.export('meSpeak');
 });
 
-Package.onTest(function(api) {
-  api.use('tinytest');
-  api.use('fds:mespeak');
-  api.addFiles('mespeak-tests.js');
-});
